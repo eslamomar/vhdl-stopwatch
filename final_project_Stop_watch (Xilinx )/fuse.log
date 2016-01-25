@@ -1,0 +1,27 @@
+Running: C:\Xilinx\12.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Eslam/final_project_Stop_watch/TOP_isim_beh.exe -prj C:/Users/Eslam/final_project_Stop_watch/TOP_beh.prj work.TOP 
+ISim M.63c (signature 0x7dea747)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd" into library work
+Parsing VHDL file "C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd" into library work
+Parsing VHDL file "C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd" into library work
+Parsing VHDL file "C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd" into library work
+Parsing VHDL file "C:/Users/Eslam/final_project_Stop_watch/TOP.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Using precompiled package std_logic_arith from library ieee
+Using precompiled package std_logic_unsigned from library ieee
+Compiling architecture behavioral of entity bcd_binary [bcd_binary_default]
+Compiling architecture behavioral of entity my_counter [my_counter_default]
+Compiling architecture behavioral of entity binary_to_bcd [binary_to_bcd_default]
+Compiling architecture behavioral of entity seven [seven_default]
+Compiling architecture behavioral of entity top
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 13 VHDL Units
+Built simulation executable C:/Users/Eslam/final_project_Stop_watch/TOP_isim_beh.exe
+Fuse Memory Usage: 20140 KB
+Fuse CPU Usage: 576 ms

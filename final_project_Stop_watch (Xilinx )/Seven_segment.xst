@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Eslam/final_project_Stop_watch/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Eslam/final_project_Stop_watch/xst"
+elaborate
+-ifn Seven_segment.prj
+-ifmt mixed

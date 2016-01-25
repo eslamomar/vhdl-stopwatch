@@ -1,0 +1,14 @@
+EN binarybcd NULL C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd sub00/vhpl04 1403639767
+AR my_counter behavioral C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd sub00/vhpl03 1403746984
+AR seven behavioral C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd sub00/vhpl11 1403746988
+EN bcd_binary NULL C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd sub00/vhpl06 1403746981
+EN seven NULL C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd sub00/vhpl10 1403746987
+AR bcd_binary behavioral C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd sub00/vhpl07 1403746982
+EN top NULL C:/Users/Eslam/final_project_Stop_watch/TOP.vhd sub00/vhpl00 1403746989
+AR bcd behavioral C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd sub00/vhpl09 1403640050
+EN my_counter NULL C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd sub00/vhpl02 1403746983
+AR binary_to_bcd behavioral C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd sub00/vhpl13 1403746986
+EN bcd NULL C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd sub00/vhpl08 1403640049
+AR binarybcd behavioral C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd sub00/vhpl05 1403639768
+AR top behavioral C:/Users/Eslam/final_project_Stop_watch/TOP.vhd sub00/vhpl01 1403746990
+EN binary_to_bcd NULL C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd sub00/vhpl12 1403746985

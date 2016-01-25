@@ -1,0 +1,34 @@
+V3 19
+FL C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd 2014/06/25.23:48:03 M.63c
+EN work/bcd_binary 1403746981 \
+      FL C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd \
+      PB ieee/std_logic_1164 1277201847
+AR work/bcd_binary/Behavioral 1403746982 \
+      FL C:/Users/Eslam/final_project_Stop_watch/BCD_to_Binary.vhd \
+      EN work/bcd_binary 1403746981
+FL C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd 2014/06/25.23:57:26 M.63c
+EN work/binary_to_bcd 1403746985 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd \
+      PB ieee/std_logic_1164 1277201847
+AR work/binary_to_bcd/Behavioral 1403746986 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Binary_To_BCD.vhd \
+      EN work/binary_to_bcd 1403746985
+FL C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd 2014/06/26.02:30:19 M.63c
+EN work/my_counter 1403746983 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd \
+      PB ieee/std_logic_1164 1277201847 PB ieee/STD_LOGIC_UNSIGNED 1277201849
+AR work/my_counter/Behavioral 1403746984 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Counter_Binary.vhd \
+      EN work/my_counter 1403746983
+FL C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd 2014/06/25.23:57:26 M.63c
+EN work/seven 1403746987 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd \
+      PB ieee/std_logic_1164 1277201847
+AR work/seven/Behavioral 1403746988 \
+      FL C:/Users/Eslam/final_project_Stop_watch/Seven_segment.vhd EN work/seven 1403746987
+FL C:/Users/Eslam/final_project_Stop_watch/TOP.vhd 2014/06/26.03:42:49 M.63c
+EN work/TOP 1403746989 FL C:/Users/Eslam/final_project_Stop_watch/TOP.vhd \
+      PB ieee/std_logic_1164 1277201847
+AR work/TOP/Behavioral 1403746990 \
+      FL C:/Users/Eslam/final_project_Stop_watch/TOP.vhd EN work/TOP 1403746989 \
+      CP bcd_binary CP my_counter CP binary_to_bcd CP seven

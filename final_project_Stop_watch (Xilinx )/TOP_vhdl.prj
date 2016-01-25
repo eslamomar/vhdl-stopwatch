@@ -1,0 +1,5 @@
+vhdl work "C:\Users\Eslam\final_project_Stop_watch\Seven_segment.vhd"
+vhdl work "C:\Users\Eslam\final_project_Stop_watch\Counter_Binary.vhd"
+vhdl work "C:\Users\Eslam\final_project_Stop_watch\Binary_To_BCD.vhd"
+vhdl work "C:\Users\Eslam\final_project_Stop_watch\BCD_to_Binary.vhd"
+vhdl work "C:\Users\Eslam\final_project_Stop_watch\TOP.vhd"

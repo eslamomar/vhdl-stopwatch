@@ -1,0 +1,5 @@
+vhdl work "Seven_segment.vhd"
+vhdl work "Counter_Binary.vhd"
+vhdl work "Binary_To_BCD.vhd"
+vhdl work "BCD_to_Binary.vhd"
+vhdl work "TOP.vhd"

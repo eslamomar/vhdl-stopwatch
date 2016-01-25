@@ -1,0 +1,5 @@
+vhdl isim_temp "Seven_segment.vhd"
+vhdl isim_temp "Counter_Binary.vhd"
+vhdl isim_temp "Binary_To_BCD.vhd"
+vhdl isim_temp "BCD_to_Binary.vhd"
+vhdl isim_temp "TOP.vhd"
